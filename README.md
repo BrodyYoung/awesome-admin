@@ -38,5 +38,5 @@
 	- [lakego-admin](https://github.com/deatil/lakego-admin)
 	- [ginadmin](https://github.com/gphper/ginadmin)
 	- [quark-go](https://github.com/quarkcloudio/quark-go)
-        - [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)
+    - [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)
 	
