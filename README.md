@@ -9,10 +9,17 @@
 
 ## Java
 
+- [mall](https://github.com/macrozheng/mall) ![](https://img.shields.io/github/stars/macrozheng/mall.svg?style=social&label=Star) mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。
+- [ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) ![](https://img.shields.io/github/stars/YunaiV/ruoyi-vue-pro.svg?style=social&label=Star) 基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP 等功能。
 - [eladmin](https://github.com/elunez/eladmin) ![](https://img.shields.io/github/stars/elunez/eladmin.svg?style=social&label=Star) 基于Spring Boot 2.6.4、Jpa、Spring Security、Redis、Vue的前后端分离的后台管理系统
+- [yudao-cloud](https://github.com/YunaiV/yudao-cloud) ![](https://img.shields.io/github/stars/YunaiV/yudao-cloud.svg?style=social&label=Star) 基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城、CRM、ERP 等功能。
+- [mall-swarm](https://github.com/macrozheng/mall-swarm) ![](https://img.shields.io/github/stars/macrozheng/mall-swarm.svg?style=social&label=Star) 一套微服务商城系统，采用了 Spring Cloud 2021 & Alibaba、Spring Boot 2.7、Oauth2、MyBatis、Docker、Elasticsearch、Kubernetes等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。
+- [newbee-mall](https://github.com/newbee-ltd/newbee-mall) ![](https://img.shields.io/github/stars/newbee-ltd/newbee-mall.svg?style=social&label=Star) newbee-mall是一套电商系统，包括基础版本(Spring Boot+Thymeleaf)、前后端分离版本(Spring Boot+Vue 3+Element-Plus+Vue-Router 4+Pinia+Vant 4) 、秒杀版本、Go语言版本、微服务版本(Spring Cloud Alibaba+Nacos+Sentinel+Seata+Spring Cloud Gateway+OpenFeign+ELK)。
+- [hsweb-framework](https://github.com/hs-web/hsweb-framework) ![](https://img.shields.io/github/stars/hs-web/hsweb-framework.svg?style=social&label=Star) 基于spring-boot 2.x开发 ,首个使用全响应式编程的企业级后台管理系统基础项目。
 - [pig](https://github.com/pig-mesh/pig) ![](https://img.shields.io/github/stars/pig-mesh/pig.svg?style=social&label=Star) 基于Spring Cloud 2022、Spring Boot 3.1、OAuth2的RBAC权限管理系统
 - [lamp-cloud](https://github.com/dromara/lamp-cloud) ![](https://img.shields.io/github/stars/dromara/lamp-cloud.svg?style=social&label=Star) 基于Jdk11 + SpringCloud + SpringBoot 开发的微服务中后台快速开发平台
 - [ruoyi](https://github.com/yangzongzhuan/RuoYi) ![](https://img.shields.io/github/stars/yangzongzhuan/RuoYi.svg?style=social&label=Star) 基于SpringBoot、MyBatis、Shiro的权限管理系统
+- [RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) ![](https://img.shields.io/github/stars/yangzongzhuan/RuoYi-Vue3.svg?style=social&label=Star) (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统
 - [xboot](https://github.com/Exrick/xboot) ![](https://img.shields.io/github/stars/Exrick/xboot.svg?style=social&label=Star) 基于Spring Boot 2.x的一站式前后端分离快速开发平台
 - [base-admin](https://github.com/huanzi-qch/base-admin) ![](https://img.shields.io/github/stars/huanzi-qch/base-admin.svg?style=social&label=Star) 一套简单通用的后台管理系统，基于SpringBoot + Thymeleaf
 - [spring-cloud-flycloud](https://github.com/mxdldev/spring-cloud-flycloud) ![](https://img.shields.io/github/stars/mxdldev/spring-cloud-flycloud.svg?style=social&label=Star) 在该框架中包括了用 Spring Cloud 构建微服务的一系列基本组件和框架
@@ -84,8 +91,20 @@
 
 ## Nestjs
 - [nest-admin](https://github.com/buqiyuan/nest-admin) ![](https://img.shields.io/github/stars/buqiyuan/nest-admin.svg?style=social&label=Star) 基于NestJs+TypeScript+TypeORM+Redis+MySql+Vue3+Ant Design Vue 编写的一款简单高效的前后端分离的权限管理系统。
+- [nestjs-mysql-api](https://github.com/kuangshp/nestjs-mysql-api) ![](https://img.shields.io/github/stars/kuangshp/nestjs-mysql-api.svg?style=social&label=Star) 使用nestjs+mysql+typeorm+jwt+swagger企业项目中的RBAC权限管理、实现单地方登录。
+- [nest-admin](https://github.com/wenqiyun/nest-admin) ![](https://img.shields.io/github/stars/wenqiyun/nest-admin.svg?style=social&label=Star) 采用nestjs typeorm vue开发的一套权限管理系统
+- [meimei-nestjs-admin](https://github.com/87789771/meimei-nestjs-admin) ![](https://img.shields.io/github/stars/87789771/meimei-nestjs-admin.svg?style=social&label=Star)  基于NestJs + TypeScript +Prisma + Redis + MySql + Vue3 + vite + Element-UI编写的一款前后端分离的权限管理系统。
 - [react-admin-nest](https://github.com/weiqinke/react-admin-nest) ![](https://img.shields.io/github/stars/weiqinke/react-admin-nest.svg?style=social&label=Star) React和Ant Design和 Nest.js 和 Mysql 构建的后台通用管理系统。
+- [sf-nest-admin](https://github.com/hackycy/sf-nest-admin) ![](https://img.shields.io/github/stars/hackycy/sf-nest-admin.svg?style=social&label=Star) 基于NestJs + TypeScript + TypeORM + Redis + MySql + Vue2 + Element-UI编写的一款简单高效的前后端分离的权限管理系统
+- [isme-nest-serve](https://github.com/zclzone/isme-nest-serve) ![](https://img.shields.io/github/stars/zclzone/isme-nest-serve.svg?style=social&label=Star) Vue Naive Admin 2.0 的后端服务，使用 Nestjs + TypeOrm + MySql + Redis 搭建，实现了 JWT 认证、菜单管理、RBAC 权限控制核心等功能
 - [ng-nest-admin](https://github.com/NG-NEST/ng-nest-admin) ![](https://img.shields.io/github/stars/NG-NEST/ng-nest-admin.svg?style=social&label=Star) Angular 和 Nestjs 构建的开源后台管理系统，基于 @ng-nest/ui 组件库
+- [nest-serve](https://github.com/dyb881/nest-serve) ![](https://img.shields.io/github/stars/dyb881/nest-serve.svg?style=social&label=Star) 使用 Nestjs 8.x 以微服务方式开发的基础管理后台服务，并搭配 React 开发的管理后台前端
 - [Xmw-Admin](https://github.com/baiwumm/Xmw-Admin) ![](https://img.shields.io/github/stars/baiwumm/Xmw-Admin.svg?style=social&label=Star) 基于 React + Nest 全栈开发的后台系统
+- [simple-user-center](https://github.com/canyuegongzi/simple-user-center) ![](https://img.shields.io/github/stars/canyuegongzi/simple-user-center.svg?style=social&label=Star) 基于node(nest.js + mysql)的用户组织权限管理系统,集成kafka消息推送
+- [ark-admin-nest](https://github.com/arklnk/ark-admin-nest) ![](https://img.shields.io/github/stars/arklnk/ark-admin-nest.svg?style=social&label=Star) 基于Nestjs + Vue3 + TypeScript + Element-Plus开发的简单高效权限管理系统。
+- [nest-vben-admin](https://github.com/kuizuo/nest-vben-admin) ![](https://img.shields.io/github/stars/kuizuo/nest-vben-admin.svg?style=social&label=Star) 一款使用 Vben + Nest 开发的前后端分离的权限管理系统
+- [nest-cms-api](https://github.com/LeoKun1231/nest-cms-api) ![](https://img.shields.io/github/stars/LeoKun1231/nest-cms-api.svg?style=social&label=Star) cms后台管理系统接口 使用nestjs+mysql+typeorm/prisma+docker+jwt+redis+apifox，实现了RBAC权限管理。
+- [nest-admin-ts](https://github.com/zyhnbyyds/nest-admin-ts) ![](https://img.shields.io/github/stars/zyhnbyyds/nest-admin-ts.svg?style=social&label=Star) 基于nestjs的基本后台管理系统。采用jwt身份认证。包含登录、用户、角色等。参考nest官网的最佳实践。
 - [nest-admin-ts](https://github.com/zhang771/nest-admin-ts) ![](https://img.shields.io/github/stars/zhang771/nest-admin-ts.svg?style=social&label=Star) 基于nestjs的基本后台管理系统。采用jwt身份认证。
+- [vivy-nest-admin](https://github.com/haiweilian/vivy-nest-admin) ![](https://img.shields.io/github/stars/haiweilian/vivy-nest-admin.svg?style=social&label=Star) 基于 Nest.js & React.js & TypeORM 的后台权限管理系统。
 - [lyf-vue-nest-admin](https://github.com/luyf1995/lyf-vue-nest-admin) ![](https://img.shields.io/github/stars/luyf1995/lyf-vue-nest-admin.svg?style=social&label=Star) 采用 vue3+nestjs 构建的简易版后台管理系统。
